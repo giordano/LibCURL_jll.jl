@@ -1,0 +1,9 @@
+[[LibCURL]]
+arch = "x86_64"
+git-tree-sha1 = "bd37b0e5e47a491a54042572ce3f4c3ed12015ec"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL.download]]
+    sha256 = "34b8118f95a9ad3e53d8eaed46ee167701002750dceda196b4db8ff5d27d3a9c"
+    url = "https://github.com/giordano/LibCURL_jll.jl/releases/download/LibCURL-v7.73.0+8/LibCURL.v7.73.0.x86_64-linux-gnu.tar.gz"
